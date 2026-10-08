@@ -222,3 +222,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 >>>>>>> a47adceacf39fc537e2513c257e6e6ca2ca478d6
+similarity.pkl
